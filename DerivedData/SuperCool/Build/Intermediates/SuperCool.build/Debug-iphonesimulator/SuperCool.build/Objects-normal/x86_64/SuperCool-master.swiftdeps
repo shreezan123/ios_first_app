@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "e2597057e6ec9c1c60c09c7e1e950fb6"
+build_time: [519588686, 36878000]
+inputs:
+  "/Users/shrijanaryal/Documents/xcode projects/Billionaire App/SuperCool/SuperCool/ViewController.swift": [519588683, 0]
+  "/Users/shrijanaryal/Documents/xcode projects/Billionaire App/SuperCool/SuperCool/AppDelegate.swift": [519308631, 0]

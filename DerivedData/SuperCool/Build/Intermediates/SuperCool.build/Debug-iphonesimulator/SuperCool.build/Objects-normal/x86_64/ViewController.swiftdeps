@@ -1,0 +1,237 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C9SuperCool14ViewController"
+provides-member:
+- ["C9SuperCool14ViewController", ""]
+provides-dynamic-lookup:
+- "Coollooks"
+- "Makemecool"
+- "didReceiveMemoryWarning"
+- "BackGround"
+- "viewDidLoad"
+- "AppLogo"
+depends-top-level:
+- "AnyObject"
+- "ViewController"
+- "UIViewController"
+- "UIButton"
+- "UIImageView"
+- !private "BooleanLiteralType"
+depends-member:
+- ["Ps9AnyObject", "AppLogo"]
+- ["Ps9AnyObject", "BackGround"]
+- ["Ps9AnyObject", "Coollooks"]
+- ["Ps9AnyObject", "Makemecool"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "hidden"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["Ps11CVarArgType", "AppLogo"]
+- ["Ps11CVarArgType", "BackGround"]
+- ["Ps11CVarArgType", "Coollooks"]
+- ["Ps11CVarArgType", "Makemecool"]
+- ["Ps11CVarArgType", "didReceiveMemoryWarning"]
+- !private ["Ps11CVarArgType", "hidden"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "viewDidLoad"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "AppLogo"]
+- ["Ps28CustomDebugStringConvertible", "BackGround"]
+- ["Ps28CustomDebugStringConvertible", "Coollooks"]
+- ["Ps28CustomDebugStringConvertible", "Makemecool"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "hidden"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "AppLogo"]
+- ["Ps23CustomStringConvertible", "BackGround"]
+- ["Ps23CustomStringConvertible", "Coollooks"]
+- ["Ps23CustomStringConvertible", "Makemecool"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "hidden"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "AppLogo"]
+- ["Ps9Equatable", "BackGround"]
+- ["Ps9Equatable", "Coollooks"]
+- ["Ps9Equatable", "Makemecool"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "hidden"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "AppLogo"]
+- ["Ps8Hashable", "BackGround"]
+- ["Ps8Hashable", "Coollooks"]
+- ["Ps8Hashable", "Makemecool"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "hidden"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["PSo8NSCoding", "AppLogo"]
+- ["PSo8NSCoding", "BackGround"]
+- ["PSo8NSCoding", "Coollooks"]
+- ["PSo8NSCoding", "Makemecool"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "hidden"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "AppLogo"]
+- ["PSo26NSExtensionRequestHandling", "BackGround"]
+- ["PSo26NSExtensionRequestHandling", "Coollooks"]
+- ["PSo26NSExtensionRequestHandling", "Makemecool"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "AppLogo"]
+- ["CSo8NSObject", "BackGround"]
+- ["CSo8NSObject", "Coollooks"]
+- ["CSo8NSObject", "Makemecool"]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "hidden"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "AppLogo"]
+- ["PSo16NSObjectProtocol", "BackGround"]
+- ["PSo16NSObjectProtocol", "Coollooks"]
+- ["PSo16NSObjectProtocol", "Makemecool"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "hidden"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo29UIAccessibilityIdentification", "hidden"]
+- !private ["PSo12UIAppearance", "hidden"]
+- ["PSo21UIAppearanceContainer", "AppLogo"]
+- ["PSo21UIAppearanceContainer", "BackGround"]
+- ["PSo21UIAppearanceContainer", "Coollooks"]
+- ["PSo21UIAppearanceContainer", "Makemecool"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "hidden"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo8UIButton", "hidden"]
+- ["PSo18UIContentContainer", "AppLogo"]
+- ["PSo18UIContentContainer", "BackGround"]
+- ["PSo18UIContentContainer", "Coollooks"]
+- ["PSo18UIContentContainer", "Makemecool"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["CSo9UIControl", "hidden"]
+- !private ["PSo17UICoordinateSpace", "hidden"]
+- !private ["PSo13UIDynamicItem", "hidden"]
+- ["PSo18UIFocusEnvironment", "AppLogo"]
+- ["PSo18UIFocusEnvironment", "BackGround"]
+- ["PSo18UIFocusEnvironment", "Coollooks"]
+- ["PSo18UIFocusEnvironment", "Makemecool"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "hidden"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo11UIImageView", "hidden"]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "AppLogo"]
+- ["CSo11UIResponder", "BackGround"]
+- ["CSo11UIResponder", "Coollooks"]
+- ["CSo11UIResponder", "Makemecool"]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "hidden"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "AppLogo"]
+- ["PSo16UIStateRestoring", "BackGround"]
+- ["PSo16UIStateRestoring", "Coollooks"]
+- ["PSo16UIStateRestoring", "Makemecool"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "AppLogo"]
+- ["PSo18UITraitEnvironment", "BackGround"]
+- ["PSo18UITraitEnvironment", "Coollooks"]
+- ["PSo18UITraitEnvironment", "Makemecool"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "hidden"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "hidden"]
+- ["CSo16UIViewController", "AnyObject"]
+- ["CSo16UIViewController", "AppLogo"]
+- ["CSo16UIViewController", "BackGround"]
+- ["CSo16UIViewController", "Coollooks"]
+- ["CSo16UIViewController", "Makemecool"]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "UIImageView"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["C9SuperCool14ViewController", "AnyObject"]
+- ["C9SuperCool14ViewController", "AppLogo"]
+- ["C9SuperCool14ViewController", "BackGround"]
+- ["C9SuperCool14ViewController", "Coollooks"]
+- ["C9SuperCool14ViewController", "Makemecool"]
+- ["C9SuperCool14ViewController", "UIButton"]
+- ["C9SuperCool14ViewController", "UIImageView"]
+- ["C9SuperCool14ViewController", "deinit"]
+- ["C9SuperCool14ViewController", "didReceiveMemoryWarning"]
+- ["C9SuperCool14ViewController", "init"]
+- ["C9SuperCool14ViewController", "viewDidLoad"]
+- !private ["Ps12_Reflectable", "hidden"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo8UIButton"
+- "PSo18UIContentContainer"
+- !private "CSo9UIControl"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "CSo11UIImageView"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- "C9SuperCool14ViewController"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "a4ad3ac4d6f4a80ad1de6de58f3a18be"
